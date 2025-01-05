@@ -88,11 +88,11 @@ img {
 }
 .foot {
   position: fixed;
-  width: 720px;
+  width: 100%;
   bottom: 0;
   left: 0;
   right: 0;
-  margin: auto;
+  /* margin: auto; */
   justify-content: space-between;
   align-items: center;
   padding: 0 0;
